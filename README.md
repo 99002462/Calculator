@@ -6,3 +6,5 @@ Genesis Applied SDLC Project
 
 ![cppcheck-action](https://github.com/99002462/Calculator/workflows/cppcheck-action/badge.svg)
 ![C/C++ CI](https://github.com/99002462/Calculator/workflows/C/C++%20CI/badge.svg?branch=master)
+![Unit testing](https://github.com/99002462/Calculator/workflows/Unit%20testing/badge.svg?branch=main)
+![Valgrind](https://github.com/99002462/Calculator/workflows/Valgrind/badge.svg?branch=main)
