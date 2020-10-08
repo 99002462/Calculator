@@ -9,4 +9,4 @@ Genesis Applied-SDLC Project
 ![Unit testing](https://github.com/99002462/Calculator/workflows/Unit%20testing/badge.svg?branch=main)
 ![Valgrind](https://github.com/99002462/Calculator/workflows/Valgrind/badge.svg?branch=main)
 
-Reference: https://github.com/stepin654321/MiniProject_Template
+Reference: <https://github.com/stepin654321/MiniProject_Template>
