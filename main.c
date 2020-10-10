@@ -42,7 +42,7 @@ void calculator_menu(void)
 
     if(EXIT == calculator_operation)
     {
-        printf("\nThank you. Exiting the Application\n");
+        printf("\nExit the plan\n");
         exit(0);
     }
 
@@ -168,7 +168,7 @@ void calculator_menu(void)
             exit(0);
             break;
         default:
-            printf("\n\t---It should never come here---\n");
+            printf("\n\t---You have made some errors---\n");
     }
 }
 
